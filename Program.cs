@@ -11,7 +11,7 @@ using System.Xml;
 ProbandoPoolHilos ProbandoPoolHilosObject = new ProbandoPoolHilos();
 //ProbandoPoolHilosObject.EjecutarProceso();
 
-for (int i = 0; i < 100; i++)
+for (int i = 0; i < 100; i++) 
 {
     //Thread t = new Thread(ejecutar);
     //t.Start();
@@ -59,12 +59,6 @@ qry.ExecuteNonQuery();
 conn.Close();
 */
 
-static string leerxml(string pRutaXML)
-{
-    XmlTextReader mixml = new XmlTextReader(pRutaXML);
-    return "";
-}
-
 string setConexion(string pUser, string pContrasena, string pBaseDatos, string pServidor)
 {
     return $"Persist Security Info=False;User ID={pUser};Password={pContrasena};Initial Catalog={pBaseDatos};Server={pServidor}";
@@ -81,12 +75,19 @@ void ejecutar(string pRutaXML)
 
     SqlCommand consulta = new SqlCommand(qry, cnx);
     consulta.Parameters.AddWithValue("@xmlParameter", mixml);
+    try
+    {
+        consulta.ExecuteNonQuery();
+        Console.WriteLine("Proceso terminado");
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine(ex.Message);
+    }
     
-    consulta.ExecuteNonQuery();
-
-
-
 }
+
+
 
 /*using (SqlConnection cn = new SqlConnection("connection string"))
 {
