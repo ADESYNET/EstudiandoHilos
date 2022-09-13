@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Perfil 1": {
+      "commandName": "Executable",
+      "executablePath": "A:\\@Desarrollo\\C#\\EstudiandoHilos\\bin\\Debug\\net6.0\\EstudiandoHilos.exe"
+    }
+  }
+}

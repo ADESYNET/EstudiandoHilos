@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><ROOT>
+<Tmp cdempresa="01" entidad="" idclienteexterno="" nombre="" direccion="" codigopostal="" idprovincia="" idpoblacion="" telfonofijocontacto="" numerocuenta="" nif="" movil="" fax="" email="" url_protocolo_https="" />
+<Tmp cdempresa="02" entidad="ADES" idclienteexterno="NAN" nombre="NAN" direccion="NAN" codigopostal="NAN" idprovincia="150100" idpoblacion="150122" telfonofijocontacto="NAN" numerocuenta="NAN" nif="NAN" movil="NAN" fax="NAN" email="NAN" url_protocolo_https="https://91.116.191.52:8055" />
+<Tmp cdempresa="03" entidad="" idclienteexterno="" nombre="" direccion="" codigopostal="" idprovincia="" idpoblacion="" telfonofijocontacto="" numerocuenta="" nif="" movil="" fax="" email="" url_protocolo_https="" />
+</ROOT>

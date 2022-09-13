@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><ROOT>
+<Tmp cdempresa="01" dsempresa="INVERSIONES MEZA ESCOBAR S.A.C." drempresa="Residencial Los Crisantemos Mz. D Lote 4 - Puente Piedra" rucempresa="20510266839" flgdefault="0" fmtguia="GUIATR04" fmtfactura="FINVME" nombrecomercial="INVERSIONES MEZA ESCOBAR S.A.C." logo="" telefono="" usuario_sol="" clave_sol="" cddistrito="" dc="" />
+<Tmp cdempresa="02" dsempresa="CORPORATION INTHERPHARMA S.A.C." drempresa="AV. COPACABANA NRO. 219 (ALTURA DEL OVALO PUENTE PIEDRA)LIMA - LIMA - PUENTE PIEDRA" rucempresa="20515774182" flgdefault="1" fmtguia="GUIATR05" fmtfactura="" nombrecomercial="CORPORATION INTHERPHARMA S.A.C." logo="\\128.100.100.102\server_con\FacturacionElectronica\LOGO\Logo_HYS.png" telefono="619-4949 Anexo 219 Cel: 989 289 026" usuario_sol="" clave_sol="" cddistrito="" dc="" />
+<Tmp cdempresa="03" dsempresa="HOGAR Y SALUD" drempresa="" rucempresa="" flgdefault="0" fmtguia="GUIATR05" fmtfactura="" nombrecomercial="HOGAR Y SALUD" logo="" telefono="" usuario_sol="" clave_sol="" cddistrito="" dc="" />
+</ROOT>

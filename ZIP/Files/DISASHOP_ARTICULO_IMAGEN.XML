@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><ROOT>
+<Tmp cdarticulo="CLAROCE" rutaimagen="Claro.png" flgproforma="1" flgventa="1" flgrecaudacion="0" flgingresobancario="0" />
+<Tmp cdarticulo="CLAROFO" rutaimagen="Claro.png" flgproforma="1" flgventa="1" flgrecaudacion="0" flgingresobancario="0" />
+<Tmp cdarticulo="FONOYA1" rutaimagen="movistar100x100.png" flgproforma="1" flgventa="1" flgrecaudacion="0" flgingresobancario="0" />
+<Tmp cdarticulo="INBABCP" rutaimagen="Bcp_Horizontal.png" flgproforma="0" flgventa="0" flgrecaudacion="0" flgingresobancario="1" />
+<Tmp cdarticulo="INBACON" rutaimagen="bbva.png" flgproforma="0" flgventa="0" flgrecaudacion="0" flgingresobancario="1" />
+<Tmp cdarticulo="INBAINT" rutaimagen="Interbank.png" flgproforma="0" flgventa="0" flgrecaudacion="0" flgingresobancario="1" />
+<Tmp cdarticulo="MOVIST1" rutaimagen="movistar100x100.png" flgproforma="1" flgventa="1" flgrecaudacion="0" flgingresobancario="0" />
+<Tmp cdarticulo="PIN0034" rutaimagen="paysafecard.png" flgproforma="1" flgventa="1" flgrecaudacion="0" flgingresobancario="0" />
+<Tmp cdarticulo="PIN0038" rutaimagen="scotiabank.png" flgproforma="0" flgventa="0" flgrecaudacion="0" flgingresobancario="1" />
+<Tmp cdarticulo="PIN0039" rutaimagen="scotiabank.png" flgproforma="0" flgventa="0" flgrecaudacion="0" flgingresobancario="1" />
+<Tmp cdarticulo="RTR0033" rutaimagen="entel2.png" flgproforma="1" flgventa="1" flgrecaudacion="0" flgingresobancario="0" />
+<Tmp cdarticulo="RTR0035" rutaimagen="tuenti.png" flgproforma="1" flgventa="1" flgrecaudacion="0" flgingresobancario="0" />
+<Tmp cdarticulo="RTR0040" rutaimagen="Bitel.png" flgproforma="1" flgventa="1" flgrecaudacion="0" flgingresobancario="0" />
+<Tmp cdarticulo="RTR0042" rutaimagen="Bitel.png" flgproforma="1" flgventa="1" flgrecaudacion="0" flgingresobancario="0" />
+<Tmp cdarticulo="RTR0051" rutaimagen="entel2.png" flgproforma="1" flgventa="1" flgrecaudacion="0" flgingresobancario="0" />
+<Tmp cdarticulo="RTR0053" rutaimagen="virgin.png" flgproforma="1" flgventa="1" flgrecaudacion="0" flgingresobancario="0" />
+<Tmp cdarticulo="RTR0055" rutaimagen="tutarjeta.png" flgproforma="1" flgventa="1" flgrecaudacion="0" flgingresobancario="0" />
+<Tmp cdarticulo="RTR0056" rutaimagen="Luzdelsur.png" flgproforma="0" flgventa="0" flgrecaudacion="1" flgingresobancario="0" />
+<Tmp cdarticulo="RTR0063" rutaimagen="Claro.png" flgproforma="0" flgventa="0" flgrecaudacion="1" flgingresobancario="0" />
+<Tmp cdarticulo="RTR0065" rutaimagen="Claro.png" flgproforma="0" flgventa="0" flgrecaudacion="1" flgingresobancario="0" />
+<Tmp cdarticulo="RTR0067" rutaimagen="Claro.png" flgproforma="0" flgventa="0" flgrecaudacion="1" flgingresobancario="0" />
+<Tmp cdarticulo="TARJ147" rutaimagen="tarjeta147.png" flgproforma="1" flgventa="1" flgrecaudacion="0" flgingresobancario="0" />
+</ROOT>

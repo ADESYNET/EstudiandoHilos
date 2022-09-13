@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><ROOT>
+<Tmp cdlaboratorio="BITEL" nroimagen="Bitel.png" flgproforma="1" flgventa="1" flgrecaudacion="0" flgingresobancario="0" />
+<Tmp cdlaboratorio="CLARO" nroimagen="Claro.png" flgproforma="1" flgventa="1" flgrecaudacion="1" flgingresobancario="0" />
+<Tmp cdlaboratorio="DBBVA" nroimagen="bbva.png" flgproforma="0" flgventa="0" flgrecaudacion="0" flgingresobancario="1" />
+<Tmp cdlaboratorio="DBCP0" nroimagen="Bcp_Horizontal.png" flgproforma="0" flgventa="0" flgrecaudacion="0" flgingresobancario="1" />
+<Tmp cdlaboratorio="DSCOT" nroimagen="scotiabank.png" flgproforma="0" flgventa="0" flgrecaudacion="0" flgingresobancario="1" />
+<Tmp cdlaboratorio="ENTEL" nroimagen="entel2.png" flgproforma="1" flgventa="1" flgrecaudacion="0" flgingresobancario="0" />
+<Tmp cdlaboratorio="INTBK" nroimagen="Interbank.png" flgproforma="0" flgventa="0" flgrecaudacion="0" flgingresobancario="1" />
+<Tmp cdlaboratorio="LUZDS" nroimagen="Luzdelsur.png" flgproforma="0" flgventa="0" flgrecaudacion="1" flgingresobancario="0" />
+<Tmp cdlaboratorio="MOVIS" nroimagen="movistar100x100.png" flgproforma="1" flgventa="1" flgrecaudacion="0" flgingresobancario="0" />
+<Tmp cdlaboratorio="PAYSF" nroimagen="paysafecard.png" flgproforma="1" flgventa="1" flgrecaudacion="0" flgingresobancario="0" />
+<Tmp cdlaboratorio="TR147" nroimagen="tarjeta147.png" flgproforma="1" flgventa="1" flgrecaudacion="0" flgingresobancario="0" />
+<Tmp cdlaboratorio="TUENT" nroimagen="tuenti.png" flgproforma="1" flgventa="1" flgrecaudacion="0" flgingresobancario="0" />
+<Tmp cdlaboratorio="TUTAR" nroimagen="tutarjeta.png" flgproforma="1" flgventa="1" flgrecaudacion="0" flgingresobancario="0" />
+<Tmp cdlaboratorio="VIRGI" nroimagen="virgin.png" flgproforma="1" flgventa="1" flgrecaudacion="0" flgingresobancario="0" />
+</ROOT>
